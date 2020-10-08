@@ -33,9 +33,13 @@ Begin           | Playing XD
 4. Open the ```a2048game.pde``` file.
 5. Run it :)
 
+## Ho To Play It
+It's easy!
+1. Move the boxes up, down, left or right.
+2. Use arrow keys to move it.
+3. Try to get the square with the highest number.
 
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
 If you find any issue just put it in the repository issue section, thank!<br><br>
 .سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
-
