@@ -28,7 +28,7 @@ Begin           | Playing XD
 
 ## How To Use It
 1. Download Processing3 from this link: https://processing.org/download/
-2. Install this repository, click <a href="https://github.com/mohamedyanis/Avoid-Blocks-Game/archive/master.zip"> here </a> to install it.
+2. Install this repository, click <a href="https://github.com/mohamedyanis/2048-game/archive/master.zip"> here </a> to install it.
 3. Extract the folder.
 4. Open the ```a2048game.pde``` file.
 5. Run it :)
